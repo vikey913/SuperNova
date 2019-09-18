@@ -1,5 +1,5 @@
 # SuperNova
-Simple Node JS Server
+Simple Node Express-JS HTTP Server
 
 ## Environment Setup
 ``npm i``
