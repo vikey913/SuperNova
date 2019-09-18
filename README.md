@@ -2,7 +2,7 @@
 Simple Node JS Server
 
 ## Environment Setup
-npm i
+``npm i``
 
 ## Run server
-node index.js
+``node index.js``
