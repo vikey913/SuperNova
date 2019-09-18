@@ -1,0 +1,23 @@
+{
+  "name": "supernova",
+  "version": "1.0.0",
+  "description": "Simple Node JS HTTP Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikey913/SuperNova.git"
+  },
+  "author": "https://github.com/vikey913",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikey913/SuperNova/issues"
+  },
+  "homepage": "https://github.com/vikey913/SuperNova#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
